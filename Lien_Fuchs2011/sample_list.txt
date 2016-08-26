@@ -1,0 +1,6 @@
+GSM768826	Quiescent hair follicle stem cells, rep1
+GSM768827 	Quiescent hair follicle stem cells, rep2
+GSM768828 	Activated hair follicle stem cells, rep1
+GSM768829 	Activated hair follicle stem cells, rep2
+GSM768830 	Transient-amplifying matrix cells, rep1
+GSM768831 	Transient-amplifying matrix cells, rep2
