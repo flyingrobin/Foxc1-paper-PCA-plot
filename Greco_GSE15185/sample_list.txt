@@ -1,0 +1,9 @@
+GSM379041	P43_Bulge_RFP(-)_GFP(+)_CD34(+)_Pcad_low
+GSM379042	P56_Bulge_RFP(-)_GFP(+)_CD34(+)_Pcad_low
+GSM379043	P69_Bulge_RFP(-)_GFP(+)_CD34(+)_Pcad_low
+GSM379044	P43_Dermal_Papilla_GFP(-)_RFP(+)_CD45/CD117/CD34/itga7(-)
+GSM379045	P56_Dermal_Papilla_GFP(-)_RFP(+)_CD45/CD117/CD34/itga7(-)
+GSM379046	P69_Dermal_Papilla_GFP(-)_RFP(+)_CD45/CD117/CD34/itga7(-)
+GSM379047	P43_Hair_Germ_RFP(-)_GFP(+)_CD34(-)_Pcad_Hi
+GSM379048	P56_Hair_Germ_RFP(-)_GFP(+)_CD34(-)_Pcad_Hi
+GSM379049	P69_Hair_Germ_RFP(-)_GFP(+)_CD34(-)_Pcad_Hi
